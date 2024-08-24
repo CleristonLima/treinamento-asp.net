@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ASPNETCOREMVC/1.0.0": {
+        "runtime": {
+          "ASPNETCOREMVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPNETCOREMVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
